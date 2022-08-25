@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="container" >
+        <div class="header">
+            <img class="hdbg" src="./images/freeweblogo.jpg">
+            <h1 class="wrd" >Award Registration </h1>
+        </div>
+
+        <div class="out" >
+           <form id="my-form">
+                <div class="msg"></div>
+                <h2>Award Registration </h2>
+                
+                <div class="first">
+                    <label for="name">Full Name</label>
+                    <br>
+                    <input type="text" id="name">
+                    <p></p>
+                    <label for="email">Email</label>
+                    <br>
+                    <input type="text" id="email">
+                    <p></p>
+                    <label for="phone">Phone Number</label>
+                    <br>
+                    <input type="text" id="phone">
+                    <p></p>
+                    <label for="country">Country</label>
+                    <br>
+                    <input type="text" id="country">
+                    <p></p>
+                    <label for="design">Design Category</label>
+                    <br>
+                    <select type="select"  id="select" >
+                        <option value="ux" >UX/UI Design</option>
+                        <option value="web" >Web Design</option>
+                        <option value="graphic" >Graphics Design</option>
+                        <option value="video" >Video ads Design</option>
+                    </select>
+                    <p></p>
+                    <label for="linkedin">Linkedin Url</label>
+                    <br>
+                    <input type="text" id="linkedin">
+                    <p></p>
+                    <label for="linkedin">If shortlisted for the voting phase which photo would you like to use?</label>
+                    <p></p>
+                    <form action="/action_page.php"  >
+                        <input type="file" id="myFile" name="filename">
+                    </form>
+                    <p></p>
+                    <label for="about">Please tell us a little about yourself</label>
+                    <br>
+                    <textarea type="text" id="about"></textarea>
+                    <p></p>
+                    <label for="your-design">Please tell us a little about your design</label>
+                    <br>
+                    <textarea type="text" id="your-design"></textarea>
+                    <p></p>
+                    <label for="link">Your website link (for web design category)</label>
+                    <br>
+                    <input type="text" id="link">
+                    <p></p>
+                    <label for="refree-email">Email address of referee</label>
+                    <br>
+                    <input type="text" id="refree-email">
+                    <p></p>
+                    <br></br>
+                    <input  type="submit" value="Submit" id="sb">
+                </div>
+            </form>
+            
+          
+        <br>
+        <a href="./index.html"><p class="hm" >Home</p></a>
+        <a href="./form.html"><p class="rg" >Register</p></a>
+        <p class="bb" >© 2022 Free Web Africa </p>
+    </div>  
+    
+    <script src="main.js"></script>
+
+
+</body>
+</html>

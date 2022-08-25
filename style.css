@@ -1,0 +1,309 @@
+.header{
+    padding: 20px;
+    background-color: rgb(194, 205, 235);
+    
+}
+
+.hdbg{
+    height: 70px;
+}
+
+.home{
+    color:black;
+    font-family: Helvetica;
+    margin-top: -30px;
+    margin-left: 150px;
+}
+
+.reg{
+    color:black;
+    font-family: Helvetica;
+    margin-top: -40px;
+    margin-left: 300px;
+}
+
+.btn{
+    border:10px;
+    border-radius: 20px;
+    padding:15px;
+    width:100px;
+    position:absolute;
+    margin-top: -50px;
+    margin-left: 450px;
+}
+
+.bg{
+    height: 400px;
+    width: 1330px;
+}
+
+.hd{
+    color:rgb(4, 4, 87);
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.txt{
+    color:black;
+    font-family: Helvetica;
+    font-size: large;
+  
+}
+
+.btn2{
+    border:10px;
+    border-radius: 20px;
+    padding:15px;
+    width:100px;
+    margin-left: 600px;
+
+}
+
+
+
+.txtt{
+    color:black;
+    font-family: Helvetica;
+    font-size:larger;
+    text-align: justify;
+    
+}
+
+.wn{
+    color:rgb(4, 4, 87);
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.win1{
+    padding:20px;
+    border:10px;
+    border-radius: 20px;
+    font-family: Helvetica;
+    width:250px;
+    height: 280px;
+    background-color: rgb(218, 222, 230);
+    background-blend-mode:darken;
+}
+
+
+
+.win2{
+    padding:20px;
+    border:10px;
+    border-radius: 20px;
+    font-family: Helvetica;
+    width:250px;
+    height:280px;
+    background-color: rgb(218, 222, 230);
+    margin-top: -320px;
+    margin-left: 330px;
+    text-indent: none;
+}
+
+.win3{
+    padding:20px;
+    border:10px;
+    border-radius: 20px;
+    font-family: Helvetica;
+    width:250px;
+    height:280px;
+    background-color: rgb(218, 222, 230);
+    margin-top: -320px;
+    margin-left: 665px;
+    text-indent: none;
+}
+
+.win4{
+    padding:20px;
+    border:10px;
+    border-radius: 20px;
+    font-family: Helvetica;
+    width:250px;
+    height:280px;
+    background-color: rgb(218, 222, 230);
+    margin-top: -320px;
+    margin-left: 1000px;
+    text-indent: none;
+}
+
+.creative{
+    padding:20px;
+    border:10px;
+    border-radius: 20px;
+    font-family: Helvetica;
+    width:550px;
+    height: 190px;
+    background-color: rgb(218, 222, 230);
+    background-blend-mode:darken;
+    
+    text-align: justify;
+
+}
+
+
+.user{
+    padding:20px;
+    border:10px;
+    border-radius: 20px;
+    font-family: Helvetica;
+    width:550px;
+    height: 190px;
+    background-color: rgb(218, 222, 230);
+    background-blend-mode:darken;
+    margin-left: 700px;
+    margin-top: -235px;
+    text-align: justify;
+
+}
+
+
+.ft{
+    color:black;
+    font-family: Helvetica;
+    font-size: large;
+    text-align: center;
+  
+}
+
+.ftbt{
+    border:10px;
+    border-radius: 20px;
+    padding:15px;
+    width:200px;
+    text-align: center;
+    margin-left: 550px;
+}
+
+.ftbt1{
+    border:10px;
+    border-radius: 20px;
+    padding:15px;
+    width:100px;
+    margin-left: 450px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 600px;
+}
+
+.end{
+    padding: 20px;
+    background-color: rgb(194, 205, 235);
+}
+
+.bb{
+    text-align: center;
+    font-family: Helvetica;
+}
+
+.hm{
+    margin-left: 450px;
+    font-family: Helvetica;
+}
+
+.rg{
+    margin-left: 600px;
+    font-family: Helvetica;
+    margin-top: -33px;
+}
+
+.border{
+    padding:30px;
+}
+
+
+
+#my-form {
+    padding: 2rem;
+    
+  }
+  
+  #my-form label {
+    display:contents;
+  }
+  
+  #my-form input[type='text'] {
+    width: 30%;
+    height: 25px;
+    padding: 5px;
+    
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+
+  #my-form textarea[type='text'] {
+    width: 50%;
+    height: 90px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+
+  #my-form select[type='select']{
+    width: 20%;
+    height: 30px;
+    padding: 5px;
+    font-size: 15px;
+    font-family: helvetica;
+  }
+
+
+  #my-form input[type='file']{
+    width: 20%;
+    height: 30px;
+    padding: 5px;
+    font-size: 16px;
+    font-family: helvetica;
+  }
+
+
+
+/*Award Registration css*/
+.container{
+   background-color: azure;
+}
+
+.wrd{
+    color:rgb(4, 4, 87);
+    font-family: Helvetica;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.out{
+    padding:20px;
+    border:10px;
+    border-radius: 20px;
+    font-family: Helvetica;
+    width:1100px;
+    height: 1230px;
+    background-color: rgb(218, 222, 230);
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+
+
+.error {
+    background: rgb(80, 42, 185);
+    color: #fff;
+    padding: 5px;
+    margin: 5px;
+  }
+
+#sb{
+    border:10px;
+    border-radius: 20px;
+    padding:15px;
+    width:100px;
+    margin-left: 50px;
+}
+
+.bg-dark{
+    background-color: black;
+    color:white;
+}
+
+
+
